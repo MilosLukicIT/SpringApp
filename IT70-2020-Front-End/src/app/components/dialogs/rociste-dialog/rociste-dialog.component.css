@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    min-width: max-content;
+    align-items: center;
+}
+
+.form{
+    display: flex;
+}
+
+.mat-form-field{
+    font-size: 16px;
+    flex-grow: 1;
+    
+}
+
+.input{
+    margin-left: 18px;
+}
